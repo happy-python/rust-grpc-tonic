@@ -15,7 +15,7 @@ JWT: https://crates.io/crates/jsonwebtoken
 Tonic support TLS
 
 ## tonic 编译proto文件自动提示问题
-<img src="http://qiniu.rocbj.com/1611046352901-min.png" width="300" height="500"/>
+<img src="http://qiniu.rocbj.com/1611046352901-min.png" width="500" height="800"/>
 
 
 ## 客户端测试工具
